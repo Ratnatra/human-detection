@@ -1,4 +1,5 @@
-# YOLO-object-detection-with-OpenCV
+#Human-detection
+## YOLO-object-detection-with-OpenCV
 Object detection using YOLO object detector
 
 ### Detect objects in both images and video streams using Deep Learning, OpenCV, and Python.
