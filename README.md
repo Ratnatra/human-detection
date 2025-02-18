@@ -18,7 +18,7 @@ The COCO dataset consists of 80 labels, including, but not limited to:
 
 
 
-- yolo-coco : The YOLOv3 object detector pre-trained (on the COCO dataset) model files. These were trained by the <a href="https://pjreddie.com/darknet/yolo/" target="_blank"> <b>Darknet team.</b>
+- yolo-coco : The YOLOv3 object detector pre-trained (on the COCO dataset) model files.
 
 ## YOLO object detection in images
 
